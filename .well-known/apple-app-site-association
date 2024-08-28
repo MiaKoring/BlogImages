@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["de.touchthegrass.BloomBuddy"],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  }
+}
